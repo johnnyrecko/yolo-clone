@@ -1,4 +1,5 @@
-![](https://github.com/virtumonde/yolo-clone/blob/master/demo.png)
+<img src="https://github.com/virtumonde/yolo-clone/blob/master/demo.png" alt="Yolo clone demo" width="500">
+
 
 
 Running the app requires Node, the React Native command line interface, a JDK, and Android Studio. The following instractions presume that you have everything installed. Follow [the official React Native docs](https://facebook.github.io/react-native/docs/getting-started) for installation instructions.
