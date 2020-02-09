@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@nickfla1_react-native-share-instagram] /Users/virtumonde/Desktop/instagram/frontend/node_modules/@nickfla1/react-native-share-instagram/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:@react-native-community_masked-view] /Users/virtumonde/Desktop/instagram/frontend/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-image-marker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-marker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-reanimated] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fb3a97fe22b78d43a85ed063bd74f009/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/1d0a02f47f7c43db9606edbdb1b0463e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/f08e78575b382b45aeb8291a2f8094ac/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ad6f00a365fbc301e699ccc2284a7d7b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/39d076c2f213dbe79258c16cc33dfa5b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/95cefcdf7c631ae4acbfdf1066ca46fa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/af539c38402eaba30f88664b59ac60d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/cd3e2a95265768d7ef23f38715d991fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3a5f89757a349685ddad0719a353c32e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/0c0f307f4fad2f4a27663881858c0a65/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/45772788c2d54d14c6acfffbbc4d64e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fd1d299fc9eea218d81a8af82771101c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3915a19ba840e1c22a6377456f905313/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/68b0e4f708c9820adf3ee08b94350a7c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/719389166b42931d0cf068a0fe97adf5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/73ed04bbb224da213c729a36214d507f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04714f8ad0e16f35dcdb34c2dd7a6e3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/9d4320a92e07b58b971b6766df8a03db/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/e06bf57a31472925806512aaf08b45d9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4057039d29910f05f15c3bffc753c511/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/23171463f4c892f185c865c108da5217/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/27fead76ef5641328d5391969b719b60/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/dc25068331d563f5bb2b5177dde8ad4f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/2c31fb560faf87381b172ae3be606c67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/82d520c35f0c101febe346949cd9664e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/a9aa70b38dbd7a383991a7bef238e4ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/d5f2ac7aaa2c70ceb194c69b65059b9c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/2a1f2cd616d81d96605ef8e2584705fc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/652b8f2b26881a27ea9c73ffa9de7273/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4d7ad59f7ef4bab7bcc95f9cabb6e2f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/8990f197f36da365b311c9d4ec6b7305/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04f5e15a122f723c153f5c8503514338/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/43ba97949027ea75e7cc6b58748ace06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/bc98b8066df97d53da527b82ff25e3e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/91c901696b16d86da049c9bb7f5decfb/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/7b1853f3abf5a5883c1116dcc6c6a29b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/8f91a832e22532bb37b5b27c298f1478/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/951b5e0c763d2baa93432f1c4082aee1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4a2644d4dc4eb47afc7868100a4c0642/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/53aaa501e3aec5e4f009094f227babcb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/f1e1f1b27262241bf14efed1dd3d7b38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/e9e0709cfd9186d6560fa6e4c409ca26/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/603892fb86b9377e8993826ae950c584/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ae2f44fabf61226ad73a2125993bd7f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/d9ec322ce5c4d1933aacc76670e1c1fd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:2:3-28
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fb3a97fe22b78d43a85ed063bd74f009/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fb3a97fe22b78d43a85ed063bd74f009/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ad6f00a365fbc301e699ccc2284a7d7b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ad6f00a365fbc301e699ccc2284a7d7b/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3915a19ba840e1c22a6377456f905313/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3915a19ba840e1c22a6377456f905313/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04f5e15a122f723c153f5c8503514338/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04f5e15a122f723c153f5c8503514338/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/91c901696b16d86da049c9bb7f5decfb/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/91c901696b16d86da049c9bb7f5decfb/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04f5e15a122f723c153f5c8503514338/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.nomiac.yoyo.MainActivity
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+MERGED from [:@nickfla1_react-native-share-instagram] /Users/virtumonde/Desktop/instagram/frontend/node_modules/@nickfla1/react-native-share-instagram/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@nickfla1_react-native-share-instagram] /Users/virtumonde/Desktop/instagram/frontend/node_modules/@nickfla1/react-native-share-instagram/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:@react-native-community_masked-view] /Users/virtumonde/Desktop/instagram/frontend/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/virtumonde/Desktop/instagram/frontend/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-marker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-marker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-marker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-marker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fb3a97fe22b78d43a85ed063bd74f009/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fb3a97fe22b78d43a85ed063bd74f009/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/1d0a02f47f7c43db9606edbdb1b0463e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/1d0a02f47f7c43db9606edbdb1b0463e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/f08e78575b382b45aeb8291a2f8094ac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/f08e78575b382b45aeb8291a2f8094ac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ad6f00a365fbc301e699ccc2284a7d7b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ad6f00a365fbc301e699ccc2284a7d7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/39d076c2f213dbe79258c16cc33dfa5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/39d076c2f213dbe79258c16cc33dfa5b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/95cefcdf7c631ae4acbfdf1066ca46fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/95cefcdf7c631ae4acbfdf1066ca46fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/af539c38402eaba30f88664b59ac60d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/af539c38402eaba30f88664b59ac60d9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/cd3e2a95265768d7ef23f38715d991fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/cd3e2a95265768d7ef23f38715d991fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3a5f89757a349685ddad0719a353c32e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3a5f89757a349685ddad0719a353c32e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/0c0f307f4fad2f4a27663881858c0a65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/0c0f307f4fad2f4a27663881858c0a65/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/45772788c2d54d14c6acfffbbc4d64e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/45772788c2d54d14c6acfffbbc4d64e8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fd1d299fc9eea218d81a8af82771101c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/fd1d299fc9eea218d81a8af82771101c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3915a19ba840e1c22a6377456f905313/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/3915a19ba840e1c22a6377456f905313/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/68b0e4f708c9820adf3ee08b94350a7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/68b0e4f708c9820adf3ee08b94350a7c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/719389166b42931d0cf068a0fe97adf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/719389166b42931d0cf068a0fe97adf5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/73ed04bbb224da213c729a36214d507f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/73ed04bbb224da213c729a36214d507f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04714f8ad0e16f35dcdb34c2dd7a6e3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04714f8ad0e16f35dcdb34c2dd7a6e3c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/9d4320a92e07b58b971b6766df8a03db/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/9d4320a92e07b58b971b6766df8a03db/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/e06bf57a31472925806512aaf08b45d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/e06bf57a31472925806512aaf08b45d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4057039d29910f05f15c3bffc753c511/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4057039d29910f05f15c3bffc753c511/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/23171463f4c892f185c865c108da5217/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/23171463f4c892f185c865c108da5217/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/27fead76ef5641328d5391969b719b60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/27fead76ef5641328d5391969b719b60/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/dc25068331d563f5bb2b5177dde8ad4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/dc25068331d563f5bb2b5177dde8ad4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/2c31fb560faf87381b172ae3be606c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/2c31fb560faf87381b172ae3be606c67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/82d520c35f0c101febe346949cd9664e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/82d520c35f0c101febe346949cd9664e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/a9aa70b38dbd7a383991a7bef238e4ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/a9aa70b38dbd7a383991a7bef238e4ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/d5f2ac7aaa2c70ceb194c69b65059b9c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/d5f2ac7aaa2c70ceb194c69b65059b9c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/2a1f2cd616d81d96605ef8e2584705fc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/2a1f2cd616d81d96605ef8e2584705fc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/652b8f2b26881a27ea9c73ffa9de7273/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/652b8f2b26881a27ea9c73ffa9de7273/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4d7ad59f7ef4bab7bcc95f9cabb6e2f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4d7ad59f7ef4bab7bcc95f9cabb6e2f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/8990f197f36da365b311c9d4ec6b7305/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/8990f197f36da365b311c9d4ec6b7305/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04f5e15a122f723c153f5c8503514338/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/04f5e15a122f723c153f5c8503514338/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/43ba97949027ea75e7cc6b58748ace06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/43ba97949027ea75e7cc6b58748ace06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/bc98b8066df97d53da527b82ff25e3e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/bc98b8066df97d53da527b82ff25e3e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/91c901696b16d86da049c9bb7f5decfb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/91c901696b16d86da049c9bb7f5decfb/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/7b1853f3abf5a5883c1116dcc6c6a29b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/7b1853f3abf5a5883c1116dcc6c6a29b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/8f91a832e22532bb37b5b27c298f1478/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/8f91a832e22532bb37b5b27c298f1478/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/951b5e0c763d2baa93432f1c4082aee1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/951b5e0c763d2baa93432f1c4082aee1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4a2644d4dc4eb47afc7868100a4c0642/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/4a2644d4dc4eb47afc7868100a4c0642/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/53aaa501e3aec5e4f009094f227babcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/53aaa501e3aec5e4f009094f227babcb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/f1e1f1b27262241bf14efed1dd3d7b38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/f1e1f1b27262241bf14efed1dd3d7b38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/e9e0709cfd9186d6560fa6e4c409ca26/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/e9e0709cfd9186d6560fa6e4c409ca26/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/603892fb86b9377e8993826ae950c584/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/603892fb86b9377e8993826ae950c584/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ae2f44fabf61226ad73a2125993bd7f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/ae2f44fabf61226ad73a2125993bd7f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/d9ec322ce5c4d1933aacc76670e1c1fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/virtumonde/.gradle/caches/transforms-2/files-2.1/d9ec322ce5c4d1933aacc76670e1c1fd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/virtumonde/Desktop/instagram/frontend/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-marker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-marker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+MERGED from [:react-native-image-marker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-marker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/virtumonde/Desktop/instagram/frontend/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83

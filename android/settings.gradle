@@ -1,0 +1,5 @@
+rootProject.name = 'Yoyo'
+include ':@nickfla1_react-native-share-instagram'
+project(':@nickfla1_react-native-share-instagram').projectDir = new File(rootProject.projectDir, '../node_modules/@nickfla1/react-native-share-instagram/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'
